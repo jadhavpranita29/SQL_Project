@@ -11,6 +11,9 @@ Better visibility into overall supply chain performance.
 I learned from this project such as:
 
 How to design a datanase forsales and financial data.
+
 How to write SQL queries to extract and analyze data.
+
 How to analyze sales data, customer information, and financial metrics.
+
 How to apply SQL skills to real-world problems in supply chain management and sales analysis.
